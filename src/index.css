@@ -25,8 +25,11 @@ code {
 
 }
 
+a {
+  color: var(--primary);
+}
 * {
-  background: var(--primary);
+  background: var(--secondary);
   box-sizing: border-box;
 }
 
@@ -53,7 +56,7 @@ h1 {
 }
 
 .profile-pic {
-  width: 250px;
+  width: 225x;
   height: 200px;
   border-radius: 50%;
   margin: auto 70px;
@@ -61,7 +64,7 @@ h1 {
 
 .name {
   font-size: 4rem;
-  color: var(--secondary);
+  color: var(--primary);
   display: var(--flex);
   align-content: var(--center);
   justify-content: var(--center);
@@ -81,7 +84,7 @@ h1 {
 }
 
 .card {
-  background-color: var(--primary);
+  background-color: var(--secondary);
   border-radius: 2px;
   height: 640px;
   margin: 2rem;
@@ -109,24 +112,24 @@ h1 {
 .card > .content {
   padding-right: 1rem;
   font-size: 16px;
-  background-color: var(--secondary);
+  background-color: var(--primary);
   color: var(--text);
   font-weight: var(--bold);
 }
 
 .card > .content > ul {
   list-style-type: none;
-  background-color: var(--secondary);
+  background-color: var(--primary);
 }
 
 .card > .content > ul > li > p {
   margin-top: 18px;
-  background-color: var(--secondary);
+  background-color: var(--primary);
 }
 
 .project-icons {
   font-size: 3rem;
-  background-color: var(--secondary);
+  background-color: var(--primary);
 }
 
 .project-icons:hover {
@@ -154,7 +157,7 @@ h1 {
   justify-content: flex-end;
   align-items: flex-end;
   flex-wrap: nowrap;
-  bottom: 0;
+  bottom: 20px;
 
 }
 
@@ -189,7 +192,7 @@ h1 {
 }
 
 .btn-outline-dark {
-  box-shadow: 0px 3px 0px var(--secondary);
+  box-shadow: 0px 3px 0px var(--primary);
   font-weight: bold;
   border: 1.5px;
 }
@@ -221,7 +224,7 @@ h1 {
 
   .name {
     font-size: 20px;
-    color: var(--secondary);
+    color: var(--primary);
     letter-spacing: normal;
   }
   
