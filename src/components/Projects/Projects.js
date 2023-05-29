@@ -18,12 +18,12 @@ function ProjectCard(props) {
             <p className='project-title'>{props.name}</p>
           </li>
           <li>
+            <p className= 'project-link'>{props.link}</p>
+          </li>
+          <li>
             <div className='project-icons'>
               <GrGithub onClick={handleIconClick} />
             </div>
-          </li>
-          <li>
-            {props.skills}
           </li>
         </ul>
       </div>

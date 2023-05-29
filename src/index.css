@@ -54,8 +54,8 @@ h1 {
 
 
 .profile-pic {
-  width: 200px;
-  height: 200px;
+  width: 250x;
+  height: 250px;
   border-radius: 50%;
   margin: auto 70px;
 }
@@ -98,7 +98,7 @@ h1 {
   overflow: hidden;
   text-align: center;
   border-radius: 10px;
-  background-color: #13282e;
+  background-color: var(--light);
 }
 
 .card > .img-container > img {
@@ -126,7 +126,7 @@ h1 {
 }
 
 .project-icons {
-  font-size: 2rem;
+  font-size: 3rem;
   background-color: var(--secondary);
 }
 
@@ -135,7 +135,7 @@ h1 {
 }
 
 .project-title {
-  color: var(--text2);
+  color: var(--text);
 }
 
 .wrapper {
@@ -150,8 +150,8 @@ h1 {
 }
 
 .page-footer {
-  display: flex;
-  justify-content: center;
+  position: absolute;
+  justify-content: end;
   align-items: center;
   flex-wrap: nowrap;
 }
@@ -160,10 +160,12 @@ h1 {
   font-size: 64px;
   cursor: pointer;
   margin: 0 10px;
+  color: var(--extralight);
 }
 
 .nav {
   justify-content: flex-start;
+  color: var(--light);
   font-size: 32px;
 }
 
@@ -175,7 +177,6 @@ h1 {
 .nav-link.active {
   font-weight: var(--bold);
 }
-
 
 #contact-form {
   margin: 15px 500px;
