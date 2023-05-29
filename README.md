@@ -21,7 +21,7 @@ Users can view an About Me page, my past projects, and contact me via email. The
 
 ## Deployed 
 
-Deployed Link:
+Deployed Link: https://mariadolores06.github.io/REACT-Portfolio/
 
 Screenshot:
 
@@ -31,5 +31,11 @@ Have questions about this project? Please [email me.](mailto:mrodriguez.psycholo
 Please visit my [Github Profile](https://github.com/mariadolores06)
 
 ## Credits 
+
+* JavaScript
+* React Icons
+* React
+* Bootstrap
+* Node
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
