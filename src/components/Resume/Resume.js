@@ -9,7 +9,7 @@ function ResumeForm() {
     <section>
       <div className='resume-container'>
         <Row>
-          <Col lg={4} md={12}>
+          <Col lg={6} md={12}>
             <ul>
               <li>HTML</li>
               <li>CSS</li>
@@ -25,7 +25,7 @@ function ResumeForm() {
             </ul>
           </Col>
 
-          <Col lg={4} md={12}>
+          <Col lg={6} md={12}>
             <h2 className='education'>Education</h2>
             <p>
               <span className='school-name'>Northwestern University - Full Stack Web Development Bootcamp</span>
@@ -33,11 +33,11 @@ function ResumeForm() {
               <span className='school-name'>Loyola University Chicago - B.S. Psychology</span>
               <br></br>
             </p>
-            <Col lg={3} md={12}>
-              <a href={Resume} download>
+            <Col lg={6} md={12}>
+              <a href={Resume}Resume>
                 <AiOutlineFileWord />
               </a>
-              <p className='icon-text'>Download Resume</p>
+              <p className='icon-text'>Download My Resume</p>
             </Col>
           </Col>
         </Row>

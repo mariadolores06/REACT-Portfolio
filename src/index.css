@@ -54,8 +54,8 @@ h1 {
 
 
 .profile-pic {
-  width: 250x;
-  height: 250px;
+  width: 2500px;
+  height: 200px;
   border-radius: 50%;
   margin: auto 70px;
 }
@@ -79,6 +79,7 @@ h1 {
 .education {
   font-weight: bold;
   color: var(--light);
+  
 }
 
 .card {

@@ -18,7 +18,7 @@ function ProjectCard(props) {
             <p className='project-title'>{props.name}</p>
           </li>
           <li>
-            <p className= 'project-link'>{props.link}</p>
+            <a href={props.link} className='project-link'> Click here to see the deployed application!</a>
           </li>
           <li>
             <div className='project-icons'>
