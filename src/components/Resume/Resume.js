@@ -1,6 +1,19 @@
 import React from 'react';
 import { Row, Col } from 'react-bootstrap';
 import { AiOutlineFileWord } from 'react-icons/ai';
+import {BsFiletypeHtml} from 'react-icons/bs';
+import{BsFiletypeCss} from 'react-icons/bs';
+import {DiJavascript1} from 'react-icons/di';
+import {DiJqueryLogo} from 'react-icons/di';
+import {DiReact} from 'react-icons/di';
+import {BsFillBootstrapFill} from 'react-icons/bs';
+import {GrNode} from 'react-icons/gr';
+import {SiExpress} from 'react-icons/si';
+import {DiMysql} from 'react-icons/di';
+import {DiMongodb} from 'react-icons/di';
+import {TbApi} from 'react-icons/tb';
+
+
 import Resume from '../../assets/resume.img.jpg';
 // import Resumepdf from '../../assets/resume-pdf';
 
@@ -11,17 +24,17 @@ function ResumeForm() {
         <Row>
           <Col lg={6} md={12}>
             <ul>
-              <li>HTML</li>
-              <li>CSS</li>
-              <li>JavaScript</li>
-              <li>jQuery</li>
-              <li>React.js</li>
-              <li>Frameworks: Bootstrap</li>
-              <li>Node.js</li>
-              <li>Express.js</li>
-              <li>MySQL: mysql12</li>
-              <li>NoSQL: MongoDB, Mongoose</li>
-              <li>API's: RESTful, server-side</li>
+              <li>HTML<BsFiletypeHtml/></li>
+              <li>CSS<BsFiletypeCss/></li>
+              <li>JavaScript<DiJavascript1/></li>
+              <li>jQuery<DiJqueryLogo/></li>
+              <li>React.js<DiReact/></li>
+              <li>Frameworks: Bootstrap<BsFillBootstrapFill/></li>
+              <li>Node.js<GrNode/></li>
+              <li>Express.js<SiExpress/></li>
+              <li>MySQL<DiMysql/>: mysql12</li>
+              <li>NoSQL: MongoDB<DiMongodb/>, Mongoose</li>
+              <li>API's<TbApi/>: RESTful, server-side</li>
             </ul>
           </Col>
 
