@@ -155,11 +155,12 @@ h1 {
 
 .page-footer {
   height: 2.5rem;
-  position: relative;
-  justify-content: end;
+  position: absolute;
+  justify-content: flex-end;
   align-items: flex-end;
   flex-wrap: nowrap;
   bottom: 50px;
+
 }
 
 .page-footer a {

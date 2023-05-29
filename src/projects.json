@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Coding Quiz",
         "image": "https://github.com/mariadolores06/Coding-Quiz/blob/main/assets/images/preview1.png",
-        "github": "https://github.com/mariadolores06/Coding-Quiz",
+        "github": "https://github.com/mariadolores06/Coding-Quiz?raw=true",
         "link": "https://mariadolores06.github.io/Coding-Quiz/"
     },
     {
@@ -17,42 +17,42 @@
         "id": 3,
         "name": "Weather Dashboard",
         "image": "https://github.com/mariadolores06/Weather-Dashboard/blob/main/images/Weather%20Dashboard.gif",
-        "github": "https://github.com/mariadolores06/Weather-Dashboard",
+        "github": "https://github.com/mariadolores06/Weather-Dashboard?raw=true",
         "link": "https://mariadolores06.github.io/Weather-Dashboard/"
     },
     {
         "id": 4,
         "name": "PWA Text Editior",
         "image": "https://github.com/mariadolores06/Text-Editor-PWA/blob/main/assets/images/App-Preview.jpeg",
-        "github": "https://github.com/mariadolores06/Text-Editor-PWA",
+        "github": "https://github.com/mariadolores06/Text-Editor-PWA?raw=true",
         "link": "https://polar-anchorage-73508.herokuapp.com/"
 
     },
     {
         "id": 5,
         "name": "Fitness Gram",
-        "image": "https://github.com/veronika-pomy/FitnessGram/blob/main/public/media/home.png",
+        "image": "https://github.com/veronika-pomy/FitnessGram/blob/main/public/media/home.png?raw=true",
         "github": "https://github.com/veronika-pomy/FitnessGram",
         "link": "https://fitnessgram.herokuapp.com/login"
     },
     {
         "id": 6,
         "name": "E Commerce Back End",
-        "image": "https://github.com/mariadolores06/E-Commerce-Back-End/blob/main/Screenshot%202023-05-28%20134038.png",
+        "image": "https://github.com/mariadolores06/E-Commerce-Back-End/blob/main/Screenshot%202023-05-28%20134038.png?raw=true",
         "github": "https://github.com/mariadolores06/E-Commerce-Back-End",
         "link": "N/A"
     },
     {
         "id": 7,
         "name": "Employee Tracker",
-        "image": "https://github.com/mariadolores06/Employee-tracker/blob/main/Screenshot%202023-05-28%20135346.png",
+        "image": "https://github.com/mariadolores06/Employee-tracker/blob/main/Screenshot%202023-05-28%20135346.png?raw=true",
         "github": "https://github.com/mariadolores06/Employee-tracker",
         "link": "N/A"
     },
     {
         "id": 8,
         "name": "README Generator",
-        "image": "https://github.com/mariadolores06/README-generator/blob/main/assests/Preview.jpeg",
+        "image": "https://github.com/mariadolores06/README-generator/blob/main/assests/Preview.jpeg?raw=true",
         "github": "https://github.com/mariadolores06/README-generator",
         "link": "N/A"
     }

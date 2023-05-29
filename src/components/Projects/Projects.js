@@ -18,9 +18,11 @@ function ProjectCard(props) {
             <p className='project-title'>{props.name}</p>
           </li>
           <li>
-            <a href={props.link} className='project-link'> Click here to see the deployed application!</a>
+            {props.link === "N/A" } 
+            ? ()
+            : ( <a href={props.link} className='project-link'> Click here to see the deployed application!</a>
           </li>
-          <li>
+          <li> )
             <div className='project-icons'>
               <GrGithub onClick={handleIconClick} />
             </div>
