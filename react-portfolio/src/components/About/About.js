@@ -1,6 +1,6 @@
 import React from 'react';
 import { Col } from 'react-bootstrap';
-import portrait from '../../assets/Profile-pic.jpg'
+import portrait from '../../assets/profile.pic.jpg'
 
 function About() {
   return(
@@ -14,10 +14,7 @@ function About() {
           <h2 className='education'>About me</h2>
 
             <p>
-            {/* Hello, my name is Maria! */}
-            <br></br>
-            <br></br>
-            {/**/}
+            Hello, my name is Maria! I completed the Northwestern University Full Stack Web Development Bootcamp. Please feel free to check out my Github and Portfolio for past projects and current ones I am working ones. I have also attached my LinkedIn and Resume. Please reach out with any questions! 
             <br></br>
             <br></br>
             </p>    

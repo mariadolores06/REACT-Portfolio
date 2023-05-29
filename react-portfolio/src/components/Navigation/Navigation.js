@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 function Navigation (props) {
-  const tabs = ['About', 'Projects', 'Contact', 'Resume'];
+  const tabs = ['About', 'Portfolio', 'Contact', 'Resume'];
     // Initialize active tab as 'About'
   const [activeTab, setActiveTab] = useState('About'); 
 

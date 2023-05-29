@@ -1,7 +1,7 @@
 import React from 'react';
 import { Row, Col } from 'react-bootstrap';
-import { GrGithub } from "react-icons/bs";
-import { GrLinkedin } from 'react-icons/bs';
+import { GrGithub } from 'react-icons/gr';
+import { GrLinkedin } from 'react-icons/gr';
 import { BsEnvelopeFill } from 'react-icons/bs';
 
 function Footer() {
