@@ -12,10 +12,8 @@ import {SiExpress} from 'react-icons/si';
 import {DiMysql} from 'react-icons/di';
 import {DiMongodb} from 'react-icons/di';
 import {TbApi} from 'react-icons/tb';
-
-
 import Resume from '../../assets/resume.img.jpg';
-// import Resumepdf from '../../assets/resume-pdf';
+
 
 function ResumeForm() {
   return (

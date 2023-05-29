@@ -17,10 +17,8 @@ function ProjectCard(props) {
           <li>
             <p className='project-title'>{props.name}</p>
           </li>
-          <li>  
-          {props.link === "N/A"} 
-          ? (<p> Please Visit Github for a Demo of the Application</p>)
-         :(<a href={props.link} className='project-link'> Click here to see the Deployed Application!</a>)
+          <li> 
+         <a href={props.link} className='project-link'> Click here to see the Deployed Application or Demo Video!</a>
           </li>
           <li> 
             <div className='project-icons'>

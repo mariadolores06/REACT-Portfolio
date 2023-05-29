@@ -25,9 +25,6 @@ code {
 
 }
 
-a {
-  color: var(--primary);
-}
 * {
   background: var(--secondary);
   box-sizing: border-box;
