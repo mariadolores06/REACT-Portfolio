@@ -89,7 +89,7 @@ h1 {
 }
 
 .card {
-  background-color: var(--secondary);
+  background-color: var(--primary);
   border-radius: 2px;
   height: 640px;
   margin: 2rem;
