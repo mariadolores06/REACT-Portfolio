@@ -37,6 +37,8 @@ p {
   font-size: 20px;
   color: var(--text);
   font-weight: var(--bold);
+  width: 50%;
+  height: 50%;
 }
 
 h1 {
@@ -81,8 +83,6 @@ h1 {
 .education {
   font-weight: bold;
   color: var(--light);
-  width: 50%;
-  height: 50%;
 }
 
 .card {
@@ -155,12 +155,11 @@ h1 {
 
 .page-footer {
   height: 2.5rem;
-  position: absolute;
-  justify-content: flex-end;
+  position: relative;
+  justify-content: end;
   align-items: flex-end;
   flex-wrap: nowrap;
-  bottom: 30px;
-
+  bottom: 50px;
 }
 
 .page-footer a {

@@ -24,17 +24,17 @@ function ResumeForm() {
         <Row>
           <Col lg={6} md={12}>
             <ul>
-              <li>HTML<BsFiletypeHtml/></li>
-              <li>CSS<BsFiletypeCss/></li>
-              <li>JavaScript<DiJavascript1/></li>
-              <li>jQuery<DiJqueryLogo/></li>
-              <li>React.js<DiReact/></li>
-              <li>Frameworks: Bootstrap<BsFillBootstrapFill/></li>
-              <li>Node.js<GrNode/></li>
-              <li>Express.js<SiExpress/></li>
-              <li>MySQL<DiMysql/>: mysql12</li>
-              <li>NoSQL: MongoDB<DiMongodb/>, Mongoose</li>
-              <li>API's<TbApi/>: RESTful, server-side</li>
+              <li>HTML < BsFiletypeHtml/></li>
+              <li>CSS < BsFiletypeCss/></li>
+              <li>JavaScript < DiJavascript1/></li>
+              <li>jQuery < DiJqueryLogo/></li>
+              <li>React.js < DiReact/></li>
+              <li>Frameworks: Bootstrap < BsFillBootstrapFill/></li>
+              <li>Node.js < GrNode/></li>
+              <li>Express.js < SiExpress/></li>
+              <li>MySQL < DiMysql/>: mysql12</li>
+              <li>NoSQL: MongoDB < DiMongodb/>, Mongoose</li>
+              <li>API's < TbApi/>: RESTful, server-side</li>
             </ul>
           </Col>
 
