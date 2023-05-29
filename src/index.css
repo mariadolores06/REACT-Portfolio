@@ -52,9 +52,8 @@ h1 {
   color: var(--text2);
 }
 
-
 .profile-pic {
-  width: 2500px;
+  width: 250px;
   height: 200px;
   border-radius: 50%;
   margin: auto 70px;
@@ -79,7 +78,6 @@ h1 {
 .education {
   font-weight: bold;
   color: var(--light);
-  
 }
 
 .card {
@@ -151,10 +149,13 @@ h1 {
 }
 
 .page-footer {
+  height: 2.5rem;
   position: absolute;
-  justify-content: end;
-  align-items: center;
+  justify-content: flex-end;
+  align-items: flex-end;
   flex-wrap: nowrap;
+  bottom: 0;
+
 }
 
 .page-footer a {
@@ -173,6 +174,7 @@ h1 {
 .nav-link:hover, .link:hover {
   font-weight: var(--bold);
   text-decoration: none;
+  color: var(--light);
 }
 
 .nav-link.active {
@@ -189,6 +191,7 @@ h1 {
 .btn-outline-dark {
   box-shadow: 0px 3px 0px var(--secondary);
   font-weight: bold;
+  border: 1.5px;
 }
 
 
