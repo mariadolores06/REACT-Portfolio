@@ -17,12 +17,11 @@ function ProjectCard(props) {
           <li>
             <p className='project-title'>{props.name}</p>
           </li>
-          {props.link === "N/A" } 
-            ? (  )
-          : ( <li>
+          <li>
          <a href={props.link} className='project-link'> Click here to see the deployed application!</a>
+         <p>Note: a 404 error means the app is not deployed</p>
           </li>
-          <li> )
+          <li> 
             <div className='project-icons'>
               <GrGithub onClick={handleIconClick} />
             </div>
