@@ -129,6 +129,10 @@ h1 {
   background-color: var(--primary);
 }
 
+.project- link {
+  background-color: var(--primary);
+}
+
 .project-icons {
   font-size: 3rem;
   background-color: var(--primary);
@@ -159,7 +163,7 @@ h1 {
   justify-content: flex-end;
   align-items: flex-end;
   flex-wrap: nowrap;
-  bottom: 50px;
+  bottom: 0;
 
 }
 
