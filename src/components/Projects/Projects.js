@@ -17,10 +17,10 @@ function ProjectCard(props) {
           <li>
             <p className='project-title'>{props.name}</p>
           </li>
-          <li>
-            {props.link === "N/A" } 
-            ? ()
-            : ( <a href={props.link} className='project-link'> Click here to see the deployed application!</a>
+          {props.link === "N/A" } 
+            ? (  )
+          : ( <li>
+         <a href={props.link} className='project-link'> Click here to see the deployed application!</a>
           </li>
           <li> )
             <div className='project-icons'>

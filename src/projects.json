@@ -2,8 +2,8 @@
     {
         "id": 1,
         "name": "Coding Quiz",
-        "image": "https://github.com/mariadolores06/Coding-Quiz/blob/main/assets/images/preview1.png",
-        "github": "https://github.com/mariadolores06/Coding-Quiz?raw=true",
+        "image": "https://github.com/mariadolores06/Coding-Quiz/blob/main/assets/images/preview1.png?raw=true",
+        "github": "https://github.com/mariadolores06/Coding-Quiz",
         "link": "https://mariadolores06.github.io/Coding-Quiz/"
     },
     {
@@ -16,15 +16,15 @@
     {
         "id": 3,
         "name": "Weather Dashboard",
-        "image": "https://github.com/mariadolores06/Weather-Dashboard/blob/main/images/Weather%20Dashboard.gif",
-        "github": "https://github.com/mariadolores06/Weather-Dashboard?raw=true",
+        "image": "https://github.com/mariadolores06/Weather-Dashboard/blob/main/images/Weather%20Dashboard.gif?raw=true",
+        "github": "https://github.com/mariadolores06/Weather-Dashboard",
         "link": "https://mariadolores06.github.io/Weather-Dashboard/"
     },
     {
         "id": 4,
         "name": "PWA Text Editior",
-        "image": "https://github.com/mariadolores06/Text-Editor-PWA/blob/main/assets/images/App-Preview.jpeg",
-        "github": "https://github.com/mariadolores06/Text-Editor-PWA?raw=true",
+        "image": "https://github.com/mariadolores06/Text-Editor-PWA/blob/main/assets/images/App-Preview.jpeg?raw=true",
+        "github": "https://github.com/mariadolores06/Text-Editor-PWA",
         "link": "https://polar-anchorage-73508.herokuapp.com/"
 
     },
