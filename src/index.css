@@ -12,6 +12,15 @@ code {
     monospace;
 }
 
+.theme-dark {
+
+}
+
+.theme-light {
+  
+}
+
+
 :root {
   --primary: #8294C4;
   --secondary: #ACB1D6;
