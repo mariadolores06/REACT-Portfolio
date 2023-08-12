@@ -23,7 +23,7 @@ Users can view an About Me page, my past projects, and contact me via email. The
 
 Deployed Link: https://mariadolores06.github.io/REACT-Portfolio/
 
-Screenshot:
+Screenshot: [image](https://github.com/mariadolores06/REACT-Portfolio/blob/main/src/assets/Preview.jpg)
 
 ## Questions 
 
